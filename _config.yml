@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Chloe Alverti"
   avatar           : "profile.png"
-  bio              : "PhD student in Computer Science"
+  bio              : "CS PhD student"
   location         : "CSLab, ECE-NTUA, Athens"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=B8slGPkAAAAJ&hl=en"
   email            : "xalverti@cslab.ece.ntua.gr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
