@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chloe Alverti"
   avatar           : "profile.png"
-  bio              : "ECE Graduate Student <br/ > National Technical University of Athens"
+  bio              : "ECE Graduate &nbsp; Student <br/ > NTUA"
   #location         : "[CSLab, ECE-NTUA](https://www.cslab.ece.ntua.gr/)"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
