@@ -24,7 +24,7 @@ Konstantinos Nikas,<br/>Georgios Goumas, and Nectarios Koziris
 <p style="color:black;font-size:16px;"> Chloe Alverti, Vasileios Karakostas, Georgios Goumas, and Nectarios Koziris
 <br/>Poster participated in <i> Student Research Competition (SRC) <br/> in 27th International Conference on Parallel Architectures and Compilation Techniques (PACT) </i>, 2018<br/><a href='https://src.acm.org/winners/2019' color='black'> 1st place winner </a></p>
 
-[[abstract]](https://cslab.ece.ntua.gr/~xalverti/papers/PACT_2018.pdf) [[poster]](https://cslab.ece.ntua.gr/~xalverti/papers/PACT2018_Poster.pdf)
+[[abstract]](https://cslab.ece.ntua.gr/~xalverti/papers/Pact_2018.pdf) [[poster]](https://cslab.ece.ntua.gr/~xalverti/papers/Pact2018_Poster.pdf)
 <br/>
 An [extended abstract](https://cslab.ece.ntua.gr/~xalverti/papers/SRC.pdf) participated in 2019 SRC Grand Finals!
 
