@@ -16,10 +16,10 @@ Welcome to my homepage! I am a PhD candidate at [Computing Systems Laboratory](w
 * memory compression
 
 ## Contact
-Computing Systems Laboratory (21.34B)
-School of Electrical and Computer Engineering
-National Technical University of Athens
-Iroon Politechniou 9 (Zografou Campus), 15780
+Computing Systems Laboratory (21.34B)<br/>
+School of Electrical and Computer Engineering<br/>
+National Technical University of Athens<br/>
+Iroon Politechniou 9 (Zografou Campus), 15780<br/>
 Athens, Greece
 
 e-mail: xalverti@cslab.ece.ntua.gr<br/>
