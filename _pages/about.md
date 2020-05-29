@@ -32,3 +32,6 @@ Athens, Greece
 
 e-mail: xalverti@cslab.ece.ntua.gr<br/>
 phone: +30-210-772-2279
+
+
+#Prior to my PhD studies, I was employed as a research assistant at Chalmers Univeristy of Technology, working on FP7 EU #project EuroServer under the supervision of professor Per Stenstrom. My main research area was system software support for #main memory compression. Research findings of EuroServer led to the foundation of ZeroPoint Technologies AB, a start-up #company designing novel memory compression technology, where I was employed as a system software engineer for a year. I #still maintain collaboration with ZeroPoint Tecnologies as we work jointly on EU2020 project EuroExa.
