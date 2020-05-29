@@ -30,6 +30,10 @@ Research experience
   * Topic: System software support for novel main memmory comrpession technology. Worked for the FP7 EU project Euroserver. 
   * Supervisor: Per Stenstrom
   
+Working Experience
+======
+* 2016-201: System Softwrae Engineer
+  * Company: ZeroPoint Technologies AB 
 
 Publications
 ======
@@ -37,8 +41,5 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
- Working Experience
- ======
- * 2016-201: System Softwrae Engineer
-  * Company: ZeroPoint Technologies AB 
+
  
