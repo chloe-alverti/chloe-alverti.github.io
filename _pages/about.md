@@ -9,11 +9,19 @@ redirect_from:
 ---
 
 
-Welcome to my homepage! I am a PhD candidate at [Computing Systems Laboratory](www.cslab.ece.ntua.gr) of the [School of Electrical and Computer Engineering](www.ece.ntua.gr), [NTUA](www.ntua.gr).  My advisors are Assistant Professor [Georgios Goumas](http://www.cslab.ntua.gr/~goumas/) and post-doctoral researcher [Vasileios Karakostas](http://www.cslab.ece.ntua.gr/~vkarakos/). My research interests lie on the fields of computer architecture and operating systems and especially:
+Welcome to my homepage! I am a PhD candidate at [Computing Systems Laboratory](www.cslab.ece.ntua.gr) of the [School of Electrical and Computer Engineering](www.ece.ntua.gr), [NTUA](www.ntua.gr).  My advisors are Professor [Georgios Goumas](http://www.cslab.ntua.gr/~goumas/) and researcher [Vasileios Karakostas](http://www.cslab.ece.ntua.gr/~vkarakos/). My research interests lie on the fields of computer architecture and operating systems and especially:
 * virtual memory
 * emerging memory/storage technologies
 * virtualization
 * memory compression
+
+
+Prior to my PhD studies, I was employed as a research assistant at [Chalmers Univeristy of Technology](https://www.chalmers.se/en/Pages/default.aspx), working on FP7 EU project [EuroServer](https://www.hipeac.net/network/projects/6742/euroserver/) under the supervision of professor [Per Stenstrom](http://www.cse.chalmers.se/~pers/). 
+My main research area was system software support for main memory compression. 
+Research findings of EuroServer led to the foundation of [ZeroPoint Technologies AB](https://wp.zptcorp.com/),
+a start-up company designing novel memory compression technology, where I was employed as
+a system software engineer for a year. I still maintain collaboration with ZeroPoint
+Tecnologies as we work jointly on EU2020 project [EuroExa](https://euroexa.eu/). 
 
 ## Contact Info
 Computing Systems Laboratory (21.34B)<br/>
