@@ -15,7 +15,7 @@ Welcome to my homepage! I am a PhD candidate at [Computing Systems Laboratory](w
 * virtualization
 * memory compression
 
-## Contact
+## Contact Info
 Computing Systems Laboratory (21.34B)<br/>
 School of Electrical and Computer Engineering<br/>
 National Technical University of Athens<br/>
