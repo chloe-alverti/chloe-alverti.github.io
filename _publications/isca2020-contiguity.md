@@ -1,8 +1,8 @@
 ---
+title: Enhancing and Exploiting Contiguity for Fast Memory Virtualization
 collection: publications
 ---
-Enhancing and Exploiting Contiguity for Fast Memory Virtualization
-==
+
 We propose synergistic software and hardware mechanisms that alleviate the address translation overhead, focusing particularly on virtualized execution.
 On the software side, we propose contiguity-aware (CA) paging, a novel physical memory allocation technique that creates larger-than-a-page contiguous mappings while preserving the flexibility of demand paging. 
 CA paging applies to the hypervisor and guest OS memory manager independently, as well as to native systems. 
