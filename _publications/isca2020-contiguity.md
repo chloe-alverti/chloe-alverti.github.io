@@ -1,4 +1,5 @@
 ---
+collection: publications
 ---
 Enhancing and Exploiting Contiguity for Fast Memory Virtualization
 ==
@@ -11,3 +12,5 @@ in both native and virtualized systems.
 We implement and emulate the proposed techniques for the x86-64 architecture in Linux and KVM, and evaluate them across a variety of memory-intensive workloads. Our results show that: (i) CA paging is highly effective at creating vast contiguous mappings,
 even when memory is fragmented, and (ii) SpOT exploits the created contiguity and reduces address translation overhead of nested paging from 16.5% to 0.9%.
 
+
+[[pdf]](https://cslab.ece.ntua.gr/~xalverti/papers/isca20_enhancing_and_exploiting_contiguity.pdf) [[pptx]](https://cslab.ece.ntua.gr/~xalverti/papers/isca20_enhancing_and_exploiting_contiguity.pptx) [[code]](www.github.com/cslab-ntua/contiguity-isca2020.git) 
