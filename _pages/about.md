@@ -18,7 +18,7 @@ Welcome to my homepage! I am a PhD candidate at [Computing Systems Laboratory](h
 
 The past few years I've focused on the address translation overhead problem, experimenting
 with HS/SW solutions, and part of our work was recently published in [ISCA 2020](/publications/isca2020-contiguity)!
-I'm also interested in novel non-volatile main memory technolgy and I'm currently working on the design of 
+I'm also interested in novel non-volatile main memory technolοgy and I'm currently working on the design of 
 efficient operating system (OS) support for persistent data access. 
 
 Prior to my PhD studies, I was employed as a research assistant at [Chalmers Univeristy of Technology](https://www.chalmers.se/en/Pages/default.aspx) under the supervision of professor [Per Stenstrom](http://www.cse.chalmers.se/~pers/). 
