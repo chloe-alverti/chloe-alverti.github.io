@@ -19,7 +19,7 @@ Konstantinos Nikas,<br/>Georgios Goumas, and Nectarios Koziris
 
 [[pdf]](https://cslab.ece.ntua.gr/~xalverti/papers/isca20_enhancing_and_exploiting_contiguity.pdf) [[pptx]](https://cslab.ece.ntua.gr/~xalverti/papers/isca20_enhancing_and_exploiting_contiguity.pptx) [[code]](www.github.com/cslab-ntua/contiguity-isca2020.git) 
 
-## [Towards Speculative Offset-Based Address Translation]
+## Towards Speculative Offset-Based Address Translation
 
 <p style="color:black;font-size:16px;"> Chloe Alverti, Vasileios Karakostas, Georgios Goumas, and Nectarios Koziris
 <br/>Poster participated in <i> Student Research Competition (SRC) in 27th International Conference on Parallel Architectures and Compilation Techniques (PACT) </i>, 2018<br/>[1st place winner!](https://src.acm.org/winners/2019)</p>
