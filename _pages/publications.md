@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-[Enhancing and Exploiting Fast Memory Virtualization](/publications/isca2020-contiguity.md)
+[Enhancing and Exploiting Fast Memory Virtualization](/publications/isca2020-contiguity)
 ======
 Chloe Alverti, Stratos Psomadakis, Vasileios Karakostas, Jayneel Gandhi, Konstantinos Nikas, Georgios Goumas, and Nectarios Koziris
 <br/>
