@@ -15,5 +15,6 @@ author_profile: true
 
 <p style="color:black;font-size:18px;"> Chloe Alverti, Stratos Psomadakis, Vasileios Karakostas, Jayneel Gandhi, 
 <br/>Konstantinos Nikas, Georgios Goumas, and Nectarios Koziris
-<br/>Published in <i>47th International Conference on Computer Architecture (ISCA)</i>, 2020 
-<br/>[[pdf]](https://cslab.ece.ntua.gr/~xalverti/papers/isca20_enhancing_and_exploiting_contiguity.pdf) [[pptx]](https://cslab.ece.ntua.gr/~xalverti/papers/isca20_enhancing_and_exploiting_contiguity.pptx) [[code]](www.github.com/cslab-ntua/contiguity-isca2020.git)</p> 
+<br/>Published in <i>47th International Conference on Computer Architecture (ISCA)</i>, 2020 </p>
+
+[[pdf]](https://cslab.ece.ntua.gr/~xalverti/papers/isca20_enhancing_and_exploiting_contiguity.pdf) [[pptx]](https://cslab.ece.ntua.gr/~xalverti/papers/isca20_enhancing_and_exploiting_contiguity.pptx) [[code]](www.github.com/cslab-ntua/contiguity-isca2020.git) 
