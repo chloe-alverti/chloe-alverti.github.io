@@ -31,6 +31,7 @@ An [extended abstract](https://cslab.ece.ntua.gr/~xalverti/papers/SRC.pdf) parti
 ## Memory Link compression to speedup scientific workloads
 <p style="color:black;font-size:16px;"> Chloe Alverti Georgios Goumas, Konstantinos Nikas, Angelos Arelakis,
 <br/> Nectarios Koziris, and Per Stenstrom
-<br/>Presented in <i> Eighth Workshop on Programmability Issues for Heterogeneous Multicores (MULTIPROG-2015) <br/> held in conjunction with HiPEAC</i>, 2015</p>
+<br/>Presented in <i> Eighth Workshop on Programmability Issues for Heterogeneous Multicores (MULTIPROG-2015),
+<br/> held in conjunction with HiPEAC</i>, 2015</p>
 
 [[pdf]](http://research.ac.upc.edu/multiprog/multiprog2015/papers/multiprog-2015-5.pdf)
