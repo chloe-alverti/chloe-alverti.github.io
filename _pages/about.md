@@ -14,3 +14,13 @@ Welcome to my homepage! I am a PhD candidate at [Computing Systems Laboratory](w
 * emerging memory/storage technologies
 * virtualization
 * memory compression
+
+## Contact
+Computing Systems Laboratory (21.34B)
+School of Electrical and Computer Engineering
+National Technical University of Athens
+Iroon Politechniou 9 (Zografou Campus), 15780
+Athens, Greece
+
+e-mail: xalverti@cslab.ece.ntua.gr
+phone: +30-210-772-2279
