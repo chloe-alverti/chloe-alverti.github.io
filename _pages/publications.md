@@ -14,7 +14,7 @@ author_profile: true
 ## [Enhancing and Exploiting Contiguity for Fast Memory Virtualization](/publications/isca2020-contiguity)
 
 <p style="color:black;font-size:16px;"> Chloe Alverti, Stratos Psomadakis, Vasileios Karakostas, Jayneel Gandhi, 
-Konstantinos Nikas, Georgios Goumas, and Nectarios Koziris
+Konstantinos Nikas,<br/>Georgios Goumas, and Nectarios Koziris
 <br/>Published in <i>47th International Conference on Computer Architecture (ISCA)</i>, 2020 </p>
 
 [[pdf]](https://cslab.ece.ntua.gr/~xalverti/papers/isca20_enhancing_and_exploiting_contiguity.pdf) [[pptx]](https://cslab.ece.ntua.gr/~xalverti/papers/isca20_enhancing_and_exploiting_contiguity.pptx) [[code]](www.github.com/cslab-ntua/contiguity-isca2020.git) 
