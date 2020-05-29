@@ -29,7 +29,7 @@ Konstantinos Nikas,<br/>Georgios Goumas, and Nectarios Koziris
 An [extended abstract](https://cslab.ece.ntua.gr/~xalverti/papers/SRC.pdf) participated in 2019 SRC Grand Finals!
 
 ## Memory Link compression to speedup scientific workloads
-<p style="color:black;font-size:16px;"> Chloe Alverti Georgios Goumas, Konstantinos Nikas, Angelos Arelakis, <br/>
+<p style="color:black;font-size:16px;"> Chloe Alverti Georgios Goumas, Konstantinos Nikas, Angelos Arelakis,
 <br/> Nectarios Koziris, and Per Stenstrom
 <br/>Presented in <i> Eighth Workshop on Programmability Issues for Heterogeneous Multicores (MULTIPROG-2015) <br/> held in conjunction with HiPEAC</i>, 2015</p>
 
