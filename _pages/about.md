@@ -11,10 +11,14 @@ redirect_from:
 
 Welcome to my homepage! I am a PhD candidate at [Computing Systems Laboratory](www.cslab.ece.ntua.gr) of the [School of Electrical and Computer Engineering](www.ece.ntua.gr), [NTUA](www.ntua.gr).  My advisors are Professor [Georgios Goumas](http://www.cslab.ntua.gr/~goumas/) and researcher [Vasileios Karakostas](http://www.cslab.ece.ntua.gr/~vkarakos/). My research interests lie on the fields of computer architecture and operating systems and especially:
 * virtual memory
+* HW/SW co-design
 * emerging memory/storage technologies
 * virtualization
-* memory compression
 
+The past few years I've focused on the address translation overhead problem, experimenting
+with HS/SW solutions, and some of our work was recently published in [ISCA 2020](/publications/isca2020-contiguity)!
+I'm also interested in novel Non-Volatile main memory technolgies and a new work in progress is the design of 
+efficient operating system (OS) support for accessing persistent data. 
 
 Prior to my PhD studies, I was employed as a research assistant at [Chalmers Univeristy of Technology](https://www.chalmers.se/en/Pages/default.aspx) under the supervision of professor [Per Stenstrom](http://www.cse.chalmers.se/~pers/). 
 My main research area was system software support for main memory compression. 
