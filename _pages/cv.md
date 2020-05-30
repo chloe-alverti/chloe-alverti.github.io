@@ -32,7 +32,7 @@ Research experience
   
 Working Experience
 ======
-* 2016-201: System Softwrae Engineer
+* 2016-2017: System Softwrae Engineer
   * Company: ZeroPoint Technologies AB 
 
 Publications
