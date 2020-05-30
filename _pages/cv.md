@@ -22,12 +22,12 @@ Research experience
 ======
 * Fall 2019: HiPEAC Collaboration Grant -- Research Visit 
   * University of Wisconsin-Madison (UWM)
-  * Topic: efficient operating system (OS) support for Non-Volatile Main Memory (NVMM) persistent data
+  * Topic: Εfficient operating system (OS) support for Non-Volatile Main Memory (NVMM) persistent data
   * Supervisor: Michael Swift
 
 * 2014-2016: Research Assistant
   * Chalmers University of Technology, Gothenburg, Sweden
-  * Topic: System software support for novel main memmory comrpession technology. Worked for the FP7 EU project Euroserver. 
+  * Topic: System software support for novel main memory compression technology. Worked for the FP7 EU project Euroserver. 
   * Supervisor: Per Stenstrom
   
 Working Experience
