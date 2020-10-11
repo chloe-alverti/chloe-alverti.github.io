@@ -16,4 +16,7 @@ even when memory is fragmented, and (ii) SpOT exploits the created contiguity an
 
 keywords: virtual memory, virtualization, memory management, contiguous page mappings
 
-[[pdf]](https://cslab.ece.ntua.gr/~xalverti/papers/isca20_enhancing_and_exploiting_contiguity.pdf) [[pptx]](https://cslab.ece.ntua.gr/~xalverti/papers/isca20_enhancing_and_exploiting_contiguity.pptx) [[code]](https://github.com/cslab-ntua/contiguity-isca2020) 
+[[code]](https://github.com/cslab-ntua/contiguity-isca2020) 
+[[pdf]](https://cslab.ece.ntua.gr/~xalverti/papers/isca20_enhancing_and_exploiting_contiguity.pdf) 
+[[pptx]](https://cslab.ece.ntua.gr/~xalverti/papers/isca20_enhancing_and_exploiting_contiguity.pptx) 
+[[video]](https://www.youtube.com/watch?v=njCazqLIBbc&ab_channel=chloialverti)
