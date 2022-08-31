@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-Welcome to my homepage! I am a PhD candidate at [Computing Systems Laboratory](http://www.cslab.ece.ntua.gr) of the [School of Electrical and Computer Engineering](http://www.ece.ntua.gr), [NTUA](http://www.ntua.gr).  My advisors are Professor [Georgios Goumas](http://www.cslab.ntua.gr/~goumas/) and researcher [Vasileios Karakostas](http://www.cslab.ece.ntua.gr/~vkarakos/). My research interests lie on the fields of computer architecture and operating systems and especially:
+Welcome to my homepage! I am a PhD candidate at [Computing Systems Laboratory](http://www.cslab.ece.ntua.gr) of the [School of Electrical and Computer Engineering](http://www.ece.ntua.gr), [NTUA](http://www.ntua.gr).  
+My advisors are Professors [Georgios Goumas](http://www.cslab.ntua.gr/~goumas/) and [Vasileios Karakostas](http://www.cslab.ece.ntua.gr/~vkarakos/). 
+My research interests lie on the fields of computer architecture and operating systems and especially:
 
 * virtual memory
 * HW/SW co-design
