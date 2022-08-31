@@ -13,7 +13,7 @@ author_profile: true
 
 ## DaxVM: Stressing the Limits of Memory as a File Interface
 <p style="color:black;font-size:16px;"> Chloe Alverti, Vasileios Karakostas, Nikhita Kunati, <br/>Georgios Goumas, and Michael Swift
-<br/>Published in <i>55th IEEE/ACM International Symposium on Microarchitecture</i>, 2022 </p>
+<br/>Accepted in <i>55th IEEE/ACM International Symposium on Microarchitecture</i>, 2022 </p>
 
 pdf <!--- (https://cslab.ece.ntua.gr/~xalverti/papers/systor2022-faas.pdf) --->
 code <!--- (https://github.com/cslab-ntua/fbpml-systor22) --->
