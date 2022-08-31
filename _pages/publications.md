@@ -11,6 +11,16 @@ author_profile: true
 
 {% include base_path %}
 
+## FaaS in the Age of (sub-)ms IO: A Performance Analysis of Snapshotting
+<p style="color:black;font-size:16px;"> Christos Katsakioris, Chloe Alverti, Vasileios Karakostas, 
+Konstantinos Nikas,<br/>Georgios Goumas, and Nectarios Koziris
+<br/>Published in <i>ACM International Systems and Storage Conference (SYSTOR)</i>, 2022 </p>
+
+[[pdf]](https://cslab.ece.ntua.gr/~xalverti/papers/systor2022-faas.pdf) 
+[[code]](https://github.com/cslab-ntua/fbpml-systor22) 
+[[video]](https://www.youtube.com/watch?v=py47QrdLGls&ab_channel=SystorConference)
+
+
 ## [Enhancing and Exploiting Contiguity for Fast Memory Virtualization](/publications/isca2020-contiguity)
 
 <p style="color:black;font-size:16px;"> Chloe Alverti, Stratos Psomadakis, Vasileios Karakostas, Jayneel Gandhi, 
