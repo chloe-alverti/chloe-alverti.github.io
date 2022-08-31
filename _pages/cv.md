@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Engineering, ECE, NTUA 2021 (expected)
+* Ph.D in Computer Engineering, ECE, NTUA 2022 (expected)
   * Supervisor: Georgios Goumas
 * Diploma (M.Eng. equiv.) in Electrical and Computer Engineering, ECE, NTUA 2014
   * Thesis: Memory Link Compression in multi-core architectures ([pdf](http://artemis.cslab.ece.ntua.gr:8080/jspui/bitstream/123456789/16957/1/DT2014-0197.pdf))

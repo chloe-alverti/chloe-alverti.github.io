@@ -11,6 +11,15 @@ author_profile: true
 
 {% include base_path %}
 
+## DaxVM: Stressing the Limits of Memory as a File Interface
+<p style="color:black;font-size:16px;"> Chloe Alverti, Vasileios Karakostas, Nikhita Kunati, <br/>Georgios Goumas, and Michael Swift
+<br/>Published in <i>55th IEEE/ACM International Symposium on Microarchitecture</i>, 2022 </p>
+
+pdf <!--- (https://cslab.ece.ntua.gr/~xalverti/papers/systor2022-faas.pdf) --->
+code <!--- (https://github.com/cslab-ntua/fbpml-systor22) --->
+video <!--- (https://www.youtube.com/watch?v=py47QrdLGls&ab_channel=SystorConference)--->
+
+
 ## FaaS in the Age of (sub-)ms IO: A Performance Analysis of Snapshotting
 <p style="color:black;font-size:16px;"> Christos Katsakioris, Chloe Alverti, Vasileios Karakostas, 
 Konstantinos Nikas,<br/>Georgios Goumas, and Nectarios Koziris
@@ -26,6 +35,7 @@ Konstantinos Nikas,<br/>Georgios Goumas, and Nectarios Koziris
 <p style="color:black;font-size:16px;"> Chloe Alverti, Stratos Psomadakis, Vasileios Karakostas, Jayneel Gandhi, 
 Konstantinos Nikas,<br/>Georgios Goumas, and Nectarios Koziris
 <br/>Published in <i>47th International Conference on Computer Architecture (ISCA)</i>, 2020 </p>
+<br/> Gained a HiPEAC award!
 
 [[pdf]](https://cslab.ece.ntua.gr/~xalverti/papers/isca20_enhancing_and_exploiting_contiguity.pdf) 
 [[code]](https://www.github.com/cslab-ntua/contiguity-isca2020.git) 
