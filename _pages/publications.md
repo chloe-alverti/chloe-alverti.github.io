@@ -15,9 +15,9 @@ author_profile: true
 <p style="color:black;font-size:16px;"> Chloe Alverti, Vasileios Karakostas, Nikhita Kunati, <br/>Georgios Goumas, and Michael Swift
 <br/>Accepted in <i>55th IEEE/ACM International Symposium on Microarchitecture</i>, 2022 </p>
 
-pdf <!--- (https://cslab.ece.ntua.gr/~xalverti/papers/systor2022-faas.pdf) --->
-code <!--- (https://github.com/cslab-ntua/fbpml-systor22) --->
-video <!--- (https://www.youtube.com/watch?v=py47QrdLGls&ab_channel=SystorConference)--->
+[[pdf]](https://cslab.ece.ntua.gr/~xalverti/papers/micro2022_daxvm.pdf) 
+[[code]](https://www.github.com/cslab-ntua/DaxVM-micro2022.git) 
+[[pptx]](https://cslab.ece.ntua.gr/~xalverti/papers/micro2022_daxvm.pptx) 
 
 
 ## FaaS in the Age of (sub-)ms IO: A Performance Analysis of Snapshotting
