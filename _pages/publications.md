@@ -30,8 +30,7 @@ Konstantinos Nikas,<br/>Georgios Goumas, and Nectarios Koziris
 [[video]](https://www.youtube.com/watch?v=py47QrdLGls&ab_channel=SystorConference)
 
 
-## [Enhancing and Exploiting Contiguity for Fast Memory Virtualization](/publications/isca2020-contiguity)
-
+## Enhancing and Exploiting Contiguity for Fast Memory Virtualization
 <p style="color:black;font-size:16px;"> Chloe Alverti, Stratos Psomadakis, Vasileios Karakostas, Jayneel Gandhi, 
 Konstantinos Nikas,<br/>Georgios Goumas, and Nectarios Koziris
 <br/>Published in <i>47th International Conference on Computer Architecture (ISCA)</i>, 2020 </p>
