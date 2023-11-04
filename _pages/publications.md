@@ -16,9 +16,9 @@ author_profile: true
 <br/>Published in <i>55th IEEE/ACM International Symposium on Microarchitecture</i>, 2022 
 <br/> Gained a HiPEAC award!
 
-[[pdf]](https://cslab.ece.ntua.gr/~xalverti/papers/micro2022_daxvm.pdf) 
-[[code]](https://www.github.com/cslab-ntua/DaxVM-micro2022.git) 
-[[pptx]](https://cslab.ece.ntua.gr/~xalverti/papers/micro2022_daxvm.pptx) 
+[pdf](https://cslab.ece.ntua.gr/~xalverti/papers/micro2022_daxvm.pdf) 
+[code](https://www.github.com/cslab-ntua/DaxVM-micro2022.git) 
+[pptx](https://cslab.ece.ntua.gr/~xalverti/papers/micro2022_daxvm.pptx) 
 </p>
 
 
@@ -27,9 +27,9 @@ author_profile: true
 Konstantinos Nikas,<br/>Georgios Goumas, and Nectarios Koziris
 <br/>Published in <i>ACM International Systems and Storage Conference (SYSTOR)</i>, 2022 
 
-[[pdf]](https://cslab.ece.ntua.gr/~xalverti/papers/systor2022-faas.pdf) 
-[[code]](https://github.com/cslab-ntua/fbpml-systor22) 
-[[video]](https://www.youtube.com/watch?v=py47QrdLGls&ab_channel=SystorConference)
+[pdf](https://cslab.ece.ntua.gr/~xalverti/papers/systor2022-faas.pdf) 
+[code](https://github.com/cslab-ntua/fbpml-systor22) 
+[video](https://www.youtube.com/watch?v=py47QrdLGls&ab_channel=SystorConference)
 </p>
 
 
@@ -39,10 +39,10 @@ Konstantinos Nikas,<br/>Georgios Goumas, and Nectarios Koziris
 <br/>Published in <i>47th International Conference on Computer Architecture (ISCA)</i>, 2020 
 <br/> Gained a HiPEAC award!
 
-[[pdf]](https://cslab.ece.ntua.gr/~xalverti/papers/isca20_enhancing_and_exploiting_contiguity.pdf) 
-[[code]](https://www.github.com/cslab-ntua/contiguity-isca2020.git) 
-[[pptx]](https://cslab.ece.ntua.gr/~xalverti/papers/isca20_enhancing_and_exploiting_contiguity.pptx) 
-[[video]](https://www.youtube.com/watch?v=njCazqLIBbc&ab_channel=chloialverti)
+[pdf](https://cslab.ece.ntua.gr/~xalverti/papers/isca20_enhancing_and_exploiting_contiguity.pdf) 
+[code](https://www.github.com/cslab-ntua/contiguity-isca2020.git) 
+[pptx](https://cslab.ece.ntua.gr/~xalverti/papers/isca20_enhancing_and_exploiting_contiguity.pptx) 
+[video](https://www.youtube.com/watch?v=njCazqLIBbc&ab_channel=chloialverti)
 </p>
 
 ## Towards Speculative Offset-Based Address Translation
@@ -59,5 +59,5 @@ An [extended abstract](https://cslab.ece.ntua.gr/~xalverti/papers/SRC.pdf) parti
 <br/> Nectarios Koziris, and Per Stenstrom
 <br/>Presented in <i> Eighth Workshop on Programmability Issues for Heterogeneous Multicores (MULTIPROG-2015),
 <br/> held in conjunction with HiPEAC</i>, 2015
-[[pdf]](http://research.ac.upc.edu/multiprog/multiprog2015/papers/multiprog-2015-5.pdf)
+[pdf](http://research.ac.upc.edu/multiprog/multiprog2015/papers/multiprog-2015-5.pdf)
 </p>
