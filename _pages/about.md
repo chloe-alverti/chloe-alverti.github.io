@@ -17,7 +17,7 @@ My current research is focused on HW/SW co-design for efficient pragmatic DSM ac
  
 During my PhD studies I've spent three months at UW-Madison on a research visit, working with professor [Michael Swift](https://pages.cs.wisc.edu/~swift/) and the [SCAIL](https://scail.cs.wisc.edu/) group on persistent memory. 
 Prior to my PhD studies, I was employed as a research assistant at [Chalmers Univeristy of Technology](https://www.chalmers.se/en/Pages/default.aspx) under the supervision of professor [Per Stenstrom](http://www.cse.chalmers.se/~pers/). 
-My main research area was system software support for main memory compression and this [granted patent](https://worldwide.espacenet.com/publicationDetails/biblio?FT=D&date=20210518&DB=&locale=en_EP&CC=SE&NR=543649C2&KC=C2&ND=4) summarizesour work.  
+My main research area was system software support for main memory compression and this [granted patent](https://worldwide.espacenet.com/publicationDetails/biblio?FT=D&date=20210518&DB=&locale=en_EP&CC=SE&NR=543649C2&KC=C2&ND=4) summarizes our work.  
 
 ## Contact Info
 Thomas M. Siebel Center for Computer Science<br/>

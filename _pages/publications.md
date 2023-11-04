@@ -11,11 +11,16 @@ author_profile: true
 
 {% include base_path %}
 
+## BypassD: Enabling fast userspace access to shared SSDs
+<p style="color:black;font-size:16px;" markdown="1"> Sujay Yadalam, <ins>Chloe Alverti</ins>, Vasileios Karakostas, <br/>Jayneel Gandhi, and Michael Swift
+<br/>Published in <i>29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems</i>, 2024 
+</p>
+
 ## DaxVM: Stressing the Limits of Memory as a File Interface
 <p style="color:black;font-size:16px;" markdown="1"> <ins>Chloe Alverti</ins>, Vasileios Karakostas, Nikhita Kunati, <br/>Georgios Goumas, and Michael Swift
 <br/>Published in <i>55th IEEE/ACM International Symposium on Microarchitecture</i>, 2022 
-<br/> Gained a HiPEAC award!
-
+<br/>Gained a HiPEAC award!
+<br/>
 [pdf](https://cslab.ece.ntua.gr/~xalverti/papers/micro2022_daxvm.pdf) 
 [code](https://www.github.com/cslab-ntua/DaxVM-micro2022.git) 
 [pptx](https://cslab.ece.ntua.gr/~xalverti/papers/micro2022_daxvm.pptx) 
@@ -26,7 +31,7 @@ author_profile: true
 <p style="color:black;font-size:16px;" markdown="1"> Christos Katsakioris, <ins>Chloe Alverti</ins>, Vasileios Karakostas, 
 Konstantinos Nikas,<br/>Georgios Goumas, and Nectarios Koziris
 <br/>Published in <i>ACM International Systems and Storage Conference (SYSTOR)</i>, 2022 
-
+<br/>
 [pdf](https://cslab.ece.ntua.gr/~xalverti/papers/systor2022-faas.pdf) 
 [code](https://github.com/cslab-ntua/fbpml-systor22) 
 [video](https://www.youtube.com/watch?v=py47QrdLGls&ab_channel=SystorConference)
@@ -37,8 +42,8 @@ Konstantinos Nikas,<br/>Georgios Goumas, and Nectarios Koziris
 <p style="color:black;font-size:16px;" markdown="1"> <ins>Chloe Alverti</ins>, Stratos Psomadakis, Vasileios Karakostas, Jayneel Gandhi, 
 Konstantinos Nikas,<br/>Georgios Goumas, and Nectarios Koziris
 <br/>Published in <i>47th International Conference on Computer Architecture (ISCA)</i>, 2020 
-<br/> Gained a HiPEAC award!
-
+<br/>Gained a HiPEAC award!
+<br/>
 [pdf](https://cslab.ece.ntua.gr/~xalverti/papers/isca20_enhancing_and_exploiting_contiguity.pdf) 
 [code](https://www.github.com/cslab-ntua/contiguity-isca2020.git) 
 [pptx](https://cslab.ece.ntua.gr/~xalverti/papers/isca20_enhancing_and_exploiting_contiguity.pptx) 
