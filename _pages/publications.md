@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 ## DaxVM: Stressing the Limits of Memory as a File Interface
-<p style="color:black;font-size:16px;"> <ins>Chloe Alverti</ins>, Vasileios Karakostas, Nikhita Kunati, <br/>Georgios Goumas, and Michael Swift
+<p style="color:black;font-size:16px;" markdown="1"> <ins>Chloe Alverti</ins>, Vasileios Karakostas, Nikhita Kunati, <br/>Georgios Goumas, and Michael Swift
 <br/>Published in <i>55th IEEE/ACM International Symposium on Microarchitecture</i>, 2022 
 <br/> Gained a HiPEAC award!
 
@@ -23,7 +23,7 @@ author_profile: true
 
 
 ## FaaS in the Age of (sub-)ms IO: A Performance Analysis of Snapshotting
-<p style="color:black;font-size:16px;"> Christos Katsakioris, <ins>Chloe Alverti</ins>, Vasileios Karakostas, 
+<p style="color:black;font-size:16px;" markdown="1"> Christos Katsakioris, <ins>Chloe Alverti</ins>, Vasileios Karakostas, 
 Konstantinos Nikas,<br/>Georgios Goumas, and Nectarios Koziris
 <br/>Published in <i>ACM International Systems and Storage Conference (SYSTOR)</i>, 2022 
 
@@ -34,7 +34,7 @@ Konstantinos Nikas,<br/>Georgios Goumas, and Nectarios Koziris
 
 
 ## Enhancing and Exploiting Contiguity for Fast Memory Virtualization
-<p style="color:black;font-size:16px;"> <ins>Chloe Alverti</ins>, Stratos Psomadakis, Vasileios Karakostas, Jayneel Gandhi, 
+<p style="color:black;font-size:16px;" markdown="1"> <ins>Chloe Alverti</ins>, Stratos Psomadakis, Vasileios Karakostas, Jayneel Gandhi, 
 Konstantinos Nikas,<br/>Georgios Goumas, and Nectarios Koziris
 <br/>Published in <i>47th International Conference on Computer Architecture (ISCA)</i>, 2020 
 <br/> Gained a HiPEAC award!
@@ -46,7 +46,7 @@ Konstantinos Nikas,<br/>Georgios Goumas, and Nectarios Koziris
 </p>
 
 ## Towards Speculative Offset-Based Address Translation
-<p style="color:black;font-size:16px;"> <ins>Chloe Alverti</ins>, Vasileios Karakostas, Georgios Goumas, and Nectarios Koziris
+<p style="color:black;font-size:16px;" markdown="1"> <ins>Chloe Alverti</ins>, Vasileios Karakostas, Georgios Goumas, and Nectarios Koziris
 <br/>Poster participated in <i> Student Research Competition (SRC) <br/> in 27th International Conference on Parallel Architectures and Compilation Techniques (PACT) </i>, 2018<br/><a href='https://src.acm.org/winners/2019' color='black'> 1st place winner </a>
 
 [[abstract]](https://cslab.ece.ntua.gr/~xalverti/papers/Pact_2018.pdf) [[poster]](https://cslab.ece.ntua.gr/~xalverti/papers/Pact2018_Poster.pdf)
@@ -55,7 +55,7 @@ An [extended abstract](https://cslab.ece.ntua.gr/~xalverti/papers/SRC.pdf) parti
 </p>
 
 ## Memory Link compression to speedup scientific workloads
-<p style="color:black;font-size:16px;"> <ins>Chloe Alverti</ins>, Georgios Goumas, Konstantinos Nikas, Angelos Arelakis,
+<p style="color:black;font-size:16px;" markdown="1"> <ins>Chloe Alverti</ins>, Georgios Goumas, Konstantinos Nikas, Angelos Arelakis,
 <br/> Nectarios Koziris, and Per Stenstrom
 <br/>Presented in <i> Eighth Workshop on Programmability Issues for Heterogeneous Multicores (MULTIPROG-2015),
 <br/> held in conjunction with HiPEAC</i>, 2015
