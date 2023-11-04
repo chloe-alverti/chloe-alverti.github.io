@@ -13,7 +13,7 @@ author_profile: true
 
 ## BypassD: Enabling fast userspace access to shared SSDs
 <p style="color:black;font-size:16px;" markdown="1"> Sujay Yadalam, <ins>Chloe Alverti</ins>, Vasileios Karakostas, <br/>Jayneel Gandhi, and Michael Swift
-<br/>Published in <i>29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems</i>, 2024 
+<br/>Accepted in <i>29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems</i>, 2024 
 </p>
 
 ## DaxVM: Stressing the Limits of Memory as a File Interface
