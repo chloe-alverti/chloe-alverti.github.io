@@ -19,7 +19,7 @@ author_profile: true
 
 ## BypassD: Enabling fast userspace access to shared SSDs
 <p style="color:black;font-size:16px;" markdown="1"> Sujay Yadalam, <ins>Chloe Alverti</ins>, Vasileios Karakostas, <br/>Jayneel Gandhi, and Michael Swift
-<br/>Published in <i>29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)</i>, 2024 
+<br/>Published in <i>29th ACM International Conference on Architectural Support for <br/> Programming Languages and Operating Systems (ASPLOS)</i>, 2024 
 <br/>Gained a Best Artifact award!
 <br/>
 [pdf](https://dl.acm.org/doi/10.1145/3617232.3624854) 
