@@ -13,14 +13,13 @@ author_profile: true
 
 ## FaaSRail: Employing Real Workloads to Generate Representative Load for Serverless Research
 <p style="color:black;font-size:16px;" markdown="1"> Christos Katsakioris, <ins>Chloe Alverti</ins>, Konstantinos Nikas, <br/>Dimitrios Siakavaras, Stratos Psomadakis and Nectarios Koziris
-<br/>Accepted in <i>33rd International Symposium on High-Performance Parallel and Distributed Computing</i>, 2024 
+<br/>Accepted in <i>33rd International Symposium on High-Performance Parallel <br/> and Distributed Computing</i>, 2024 
 </p>
 
 
 ## BypassD: Enabling fast userspace access to shared SSDs
 <p style="color:black;font-size:16px;" markdown="1"> Sujay Yadalam, <ins>Chloe Alverti</ins>, Vasileios Karakostas, <br/>Jayneel Gandhi, and Michael Swift
 <br/>Published in <i>29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems</i>, 2024 
-</p>
 <br/>Gained a Best Artifact award!
 <br/>
 [pdf](https://dl.acm.org/doi/10.1145/3617232.3624854) 
