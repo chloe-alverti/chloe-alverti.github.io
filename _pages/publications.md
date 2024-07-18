@@ -11,8 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
-## Elastic Translations: Fast virtual memory with multiple translation sizes
-<p style="color:black;font-size:16px;" markdown="1"> Stratos Psomadakis, <ins>Chloe Alverti</ins>, Vasileios Karakostas, <br/>Christos Katsakioris, Dimitris Siakavaras, Konstantinos Nikas, <br/> Georgios Goumas and Nectarios Koziris
+## Elastic Translations: Fast virtual memory with <br/> multiple translation sizes
+<p style="color:black;font-size:16px;" markdown="1"> Stratos Psomadakis, <ins>Chloe Alverti</ins>, Vasileios Karakostas, Christos Katsakioris, <br/> Dimitris Siakavaras, Konstantinos Nikas, Georgios Goumas and Nectarios Koziris
 <br/>To appear in <i> Proceedings of the 57th International Symposium <br/> on Microarchitecture (MICRO).</i>, 2024 
 </p>
 
