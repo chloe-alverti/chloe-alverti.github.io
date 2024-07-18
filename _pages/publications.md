@@ -11,9 +11,16 @@ author_profile: true
 
 {% include base_path %}
 
+## Elastic Translations: Fast virtual memory with multiple translation sizes
+<p style="color:black;font-size:16px;" markdown="1"> Stratos Psomadakis, <ins>Chloe Alverti</ins>, Vasileios Karakostas, <br/>Christos Katsakioris, Dimitris Siakavaras, Konstantinos Nikas, <br/> Georgios Goumas and Nectarios Koziris
+<br/>To appear in <i> Proceedings of the 57th International Symposium <br/> on Microarchitecture (MICRO).</i>, 2024 
+</p>
+
 ## FaaSRail: Employing Real Workloads to Generate Representative Load for Serverless Research
 <p style="color:black;font-size:16px;" markdown="1"> Christos Katsakioris, <ins>Chloe Alverti</ins>, Konstantinos Nikas, <br/>Dimitrios Siakavaras, Stratos Psomadakis and Nectarios Koziris
-<br/>Accepted in <i>33rd International Symposium on High-Performance Parallel <br/> and Distributed Computing (HPDC)</i>, 2024 
+<br/>Published in <i>33rd International Symposium on High-Performance Parallel <br/> and Distributed Computing (HPDC)</i>, 2024 
+<br/>
+[code](https://github.com/cslab-ntua/faasrail)
 </p>
 
 
