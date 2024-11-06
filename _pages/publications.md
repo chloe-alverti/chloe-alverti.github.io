@@ -11,9 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
+## 	Concord: Rethinking Distributed Coherence for Software Caches in Serverless Environments
+<p style="color:black;font-size:16px;" markdown="1"> Jovan Stojkovic, <ins>Chloe Alverti</ins>,  Alan Andrade, Nikoleta Markela Iliakopoulou, <br/> Hubertus Franke, Tianyin Xu, and Josep Torrellas
+<br/>To appear in the <i> 31st IEEE International Symposium <br/> on High-Performance Computer Architecture (HPCA)</i>, 2025.
+</p>
+
 ## Elastic Translations: Fast virtual memory with <br/> multiple translation sizes
 <p style="color:black;font-size:16px;" markdown="1"> Stratos Psomadakis, <ins>Chloe Alverti</ins>, Vasileios Karakostas, Christos Katsakioris, <br/> Dimitris Siakavaras, Konstantinos Nikas, Georgios Goumas and Nectarios Koziris
-<br/>To appear in <i> Proceedings of the 57th International Symposium <br/> on Microarchitecture (MICRO).</i>, 2024 
+<br/>Published in <i> Proceedings of the 57th International Symposium <br/> on Microarchitecture (MICRO).</i>, 2024 
 </p>
 
 ## FaaSRail: Employing Real Workloads to Generate Representative Load for Serverless Research
