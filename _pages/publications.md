@@ -11,6 +11,11 @@ author_profile: true
 
 {% include base_path %}
 
+## 	CXLfork: Fast Remote Fork over CXL Fabrics
+<p style="color:black;font-size:16px;" markdown="1"> <ins>Chloe Alverti</ins>,  Stratos Psomadakis, Burak Ocalan, Shashwat Jaiswal,<br/> Tianyin Xu, and Josep Torrellas
+<br/>To appear in the <i> 30th ACM International Conference on Architectural Support <br/> for Programming Languages and Operating Systems (ASPLOS)</i>, 2025.
+</p>
+
 ## 	Concord: Rethinking Distributed Coherence for Software Caches in Serverless Environments
 <p style="color:black;font-size:16px;" markdown="1"> Jovan Stojkovic, <ins>Chloe Alverti</ins>,  Alan Andrade, Nikoleta Markela Iliakopoulou, <br/> Hubertus Franke, Tianyin Xu, and Josep Torrellas
 <br/>To appear in the <i> 31st IEEE International Symposium <br/> on High-Performance Computer Architecture (HPCA)</i>, 2025.
