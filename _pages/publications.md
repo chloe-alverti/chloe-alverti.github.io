@@ -13,17 +13,24 @@ author_profile: true
 
 ## 	CXLfork: Fast Remote Fork over CXL Fabrics
 <p style="color:black;font-size:16px;" markdown="1"> <ins>Chloe Alverti</ins>,  Stratos Psomadakis, Burak Ocalan, Shashwat Jaiswal,<br/> Tianyin Xu, and Josep Torrellas
-<br/>To appear in the <i> 30th ACM International Conference on Architectural Support <br/> for Programming Languages and Operating Systems (ASPLOS)</i>, 2025.
+<br/>Published in <i> 30th ACM International Conference on Architectural Support <br/> for Programming Languages and Operating Systems (ASPLOS)</i>, 2025. **Best Paper Award!!**
+<br/>
+[pdf](https://dl.acm.org/doi/10.1145/3676641.3715988) 
 </p>
 
 ## 	Concord: Rethinking Distributed Coherence for Software Caches in Serverless Environments
 <p style="color:black;font-size:16px;" markdown="1"> Jovan Stojkovic, <ins>Chloe Alverti</ins>,  Alan Andrade, Nikoleta Markela Iliakopoulou, <br/> Hubertus Franke, Tianyin Xu, and Josep Torrellas
-<br/>To appear in the <i> 31st IEEE International Symposium <br/> on High-Performance Computer Architecture (HPCA)</i>, 2025.
+<br/>Published in <i> 31st IEEE International Symposium <br/> on High-Performance Computer Architecture (HPCA)</i>, 2025.
+<br/>
+[pdf](https://iacoma.cs.uiuc.edu/iacoma-papers/hpca25_1.pdf) 
 </p>
 
 ## Elastic Translations: Fast virtual memory with <br/> multiple translation sizes
 <p style="color:black;font-size:16px;" markdown="1"> Stratos Psomadakis, <ins>Chloe Alverti</ins>, Vasileios Karakostas, Christos Katsakioris, <br/> Dimitris Siakavaras, Konstantinos Nikas, Georgios Goumas and Nectarios Koziris
 <br/>Published in <i> Proceedings of the 57th International Symposium <br/> on Microarchitecture (MICRO).</i>, 2024 
+<br/>
+[pdf](https://www.computer.org/csdl/proceedings-article/micro/2024/505700a017/22nipWvzkAw) 
+[code](https://github.com/cslab-ntua/elastic-translations-MICRO2024)
 </p>
 
 ## FaaSRail: Employing Real Workloads to Generate Representative Load for Serverless Research
