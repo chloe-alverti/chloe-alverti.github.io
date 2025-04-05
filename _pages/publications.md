@@ -18,7 +18,7 @@ author_profile: true
 
 ## 	CXLfork: Fast Remote Fork over CXL Fabrics
 <p style="color:black;font-size:16px;" markdown="1"> <ins>Chloe Alverti</ins>,  Stratos Psomadakis, Burak Ocalan, Shashwat Jaiswal,<br/> Tianyin Xu, and Josep Torrellas
-<br/>Published in <i> 30th ACM International Conference on Architectural Support <br/> for Programming Languages and Operating Systems (ASPLOS)</i>, 2025. **Best Paper Award!!** :trophy:
+<br/>Published in <i> 30th ACM International Conference on Architectural Support <br/> for Programming Languages and Operating Systems (ASPLOS)</i>, 2025. **Best Paper Award!!** 🏆
 <br/>
 [pdf](https://dl.acm.org/doi/10.1145/3676641.3715988) 
 </p>
