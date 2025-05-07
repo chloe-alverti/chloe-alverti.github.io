@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-## 	Multiplexing file systems to reap the benefits of storage innovations without friction
+## 	Rethinking Tiered Storage: Talk to File Systems, Not Device Drivers
 <p style="color:black;font-size:16px;" markdown="1"> Jiyuan Zhang, Jongyul Kim, <ins>Chloe Alverti</ins>, Peizhe Liu, Weiwei Jia, and Tianyin Xu
 <br/>To appear in the  <i> ACM SIGOPS 20th Workshop on Hot Topics in Operating Systems (HotOS-XX) </i>, 2025.
 </p>
