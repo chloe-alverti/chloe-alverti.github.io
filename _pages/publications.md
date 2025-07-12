@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 ##	SnapBPF: Exploiting eBPF for Serverless Snapshot Prefetching
 <p style="color:black;font-size:16px;" markdown="1"> Stratos Psomadakis, Dimitrios Siakavaras, <ins>Chloe Alverti</ins>, Symeon Porgiotis, <br/> Orestis Lagkas Nikolos, Christos Katsakioris, Konstantinos Nikas, <br/> Georgios Goumas and Nectarios Koziris
-<br/>To appear in the  <i> ACM 17th Workshop on Hot Topics in Storage and File Systems (HotStorage) </i>, 2025.
+<br/>Published in the  <i> ACM 17th Workshop on Hot Topics in Storage and File Systems (HotStorage) </i>, 2025. **Best Paper Award!!** 🏆
 </p>
 
 
