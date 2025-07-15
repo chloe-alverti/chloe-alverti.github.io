@@ -10,15 +10,25 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+## 	Chameleon: Adaptive Caching and Scheduling for Many-Adapter LLM Inference Environments
+<p style="color:black;font-size:16px;" markdown="1"> Nikoleta Iliakopoulou, Jovan Stojkovic, <ins>Chloe Alverti</ins>, <br/> Tianyin Xu, Hubertus Franke, and Josep Torrellas
+<br/>To appear in <i> the 58th International Symposium <br/> on Microarchitecture (MICRO)</i>,2025.
+</p>
+
+
 ##	SnapBPF: Exploiting eBPF for Serverless Snapshot Prefetching
 <p style="color:black;font-size:16px;" markdown="1"> Stratos Psomadakis, Dimitrios Siakavaras, <ins>Chloe Alverti</ins>, Symeon Porgiotis, <br/> Orestis Lagkas Nikolos, Christos Katsakioris, Konstantinos Nikas, <br/> Georgios Goumas and Nectarios Koziris
 <br/>Published in the  <i> ACM 17th Workshop on Hot Topics in Storage and File Systems (HotStorage) </i>, 2025. **Best Paper Award!!** 🏆
+<br/>
+[pdf](https://dl.acm.org/doi/pdf/10.1145/3736548.3737823) 
 </p>
 
 
 ## 	Rethinking Tiered Storage: Talk to File Systems, Not Device Drivers
 <p style="color:black;font-size:16px;" markdown="1"> Jiyuan Zhang, Jongyul Kim, <ins>Chloe Alverti</ins>, Peizhe Liu, Weiwei Jia, and Tianyin Xu
 <br/>Published in the  <i> ACM SIGOPS 20th Workshop on Hot Topics in Operating Systems (HotOS-XX) </i>, 2025.
+<br/>
+[pdf](https://dl.acm.org/doi/pdf/10.1145/3713082.3730383) 
 </p>
 
 ## 	CXLfork: Fast Remote Fork over CXL Fabrics
@@ -37,7 +47,7 @@ author_profile: true
 
 ## Elastic Translations: Fast virtual memory with <br/> multiple translation sizes
 <p style="color:black;font-size:16px;" markdown="1"> Stratos Psomadakis, <ins>Chloe Alverti</ins>, Vasileios Karakostas, Christos Katsakioris, <br/> Dimitris Siakavaras, Konstantinos Nikas, Georgios Goumas and Nectarios Koziris
-<br/>Published in <i> Proceedings of the 57th International Symposium <br/> on Microarchitecture (MICRO).</i>, 2024 
+<br/>Published in <i> Proceedings of the 57th International Symposium <br/> on Microarchitecture (MICRO)</i>, 2024. 
 <br/>
 [pdf](https://www.computer.org/csdl/proceedings-article/micro/2024/505700a017/22nipWvzkAw) 
 [code](https://github.com/cslab-ntua/elastic-translations-MICRO2024)
